@@ -1,0 +1,11 @@
+node_modules
+dist
+.env
+.env.local
+.DS_Store
+cost-results/
+launcher/run.log
+launcher/app.pid
+launcher/window-preview.png
+launcher/click-result.txt
+data/llm-settings.json
